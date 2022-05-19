@@ -12,3 +12,15 @@
     - Secciónes:
         - Interferencia de Tipos
         - Enumeraciones
+        - Seguimiento [19/05/2022]
+        - Tipos y Tipos Desconocidos
+        - Uniones Intersecciones
+        - Tipos de Colección
+        - Ejercicios mslearn
+    - Fín Sección [19/05/2022] 
+
+## [Implementación de Interfaces en TypeScript]
+    - inicio [19/05/2022]
+    - Secciónes:
+        - Implementación de Interfaces
+        -

@@ -23,4 +23,4 @@
     - inicio [19/05/2022]
     - Secciónes:
         - Implementación de Interfaces
-        -
+        - Instancia de una interfaz [24/05/2022]

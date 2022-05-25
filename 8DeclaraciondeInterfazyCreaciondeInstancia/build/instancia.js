@@ -12,4 +12,5 @@ function tooManyScoopos(dessert) {
         return 'Your order will be ready soon!';
     }
 }
-console.log(tooManyScoopos({ flavor: 'vanilla', scoops: 5 }));
+//*Como la funcion y el parametro es de tipo IceCream, pide que se agregue la propiedad instructions pero como es de tipo opcional no manda     error.
+console.log(tooManyScoopos({ flavor: 'Fresa', scoops: 5 }));

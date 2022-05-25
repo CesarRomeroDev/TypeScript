@@ -23,4 +23,14 @@
     - inicio [19/05/2022]
     - Secciónes:
         - Implementación de Interfaces
-        - Instancia de una interfaz [24/05/2022]
+        - Instancia de una interfaz [25/05/2022]
+        - Extensión de una interfaz
+        - Indexables
+        - Ejercicio mslearn 03
+    - Fin Seccion [25/05/2022]
+
+## [Desarrollo de Funciones con TypeScript]
+    - inicio [25/05/2022]
+    - Secciónes:
+        - Creación de Funciones en TypeScript
+        - Creación de Funciones Ejercicio

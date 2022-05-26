@@ -34,3 +34,6 @@
     - Secciónes:
         - Creación de Funciones en TypeScript
         - Creación de Funciones Ejercicio
+        - Pruebas con Parametros
+        - Ejercicio: Pruebas con Parametros
+        - Ejercicio: Definicion de tipos de Funciones

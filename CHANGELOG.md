@@ -37,3 +37,14 @@
         - Pruebas con Parametros
         - Ejercicio: Pruebas con Parametros
         - Ejercicio: Definicion de tipos de Funciones
+    - Fin Sección [26/05/2022]
+
+## [Declaración de Clases en TypeScript y Creación de una Instancia]
+    - inicio [27/05/2022]
+    - Secciones:
+        - Introducción a las Clases de TypeScript
+        - Creación de una clase
+        - Creación de instancias de una clase
+        - Modificadores de Acceso
+        - Ejercicio Modificadores de acceso a una clase
+        - Definición de propiedades estaticas

@@ -48,3 +48,7 @@
         - Modificadores de Acceso
         - Ejercicio Modificadores de acceso a una clase
         - Definición de propiedades estaticas
+        - Aplicación de una clase mediante herencia [30/05/2022]
+        - Ejercicio Aplicación de una Clase
+        - mslearn-typescript
+    - Fin Sección [30/05/2022]

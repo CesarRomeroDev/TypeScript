@@ -1,12 +1,14 @@
 # Change Log
 
-### [Modulo con typeScript]
+## [Modulo con typeScript]
+
     - inicio [17/05/2022]
     - fín    [17/05/2022]
     - link Curso: https://docs.microsoft.com/en-us/learn/browse/?terms=typescript
     - link GitHub: https://github.com/CesarRomeroDev/TypeScript
 
 ## [Declarar tipos de variables en TypeScript]
+
     - inicio [18/05/2022]
     - Seguimiento
     - Secciónes:
@@ -20,6 +22,7 @@
     - Fín Sección [19/05/2022] 
 
 ## [Implementación de Interfaces en TypeScript]
+
     - inicio [19/05/2022]
     - Secciónes:
         - Implementación de Interfaces
@@ -30,6 +33,7 @@
     - Fin Seccion [25/05/2022]
 
 ## [Desarrollo de Funciones con TypeScript]
+
     - inicio [25/05/2022]
     - Secciónes:
         - Creación de Funciones en TypeScript
@@ -40,6 +44,7 @@
     - Fin Sección [26/05/2022]
 
 ## [Declaración de Clases en TypeScript y Creación de una Instancia]
+
     - inicio [27/05/2022]
     - Secciones:
         - Introducción a las Clases de TypeScript
@@ -52,3 +57,10 @@
         - Ejercicio Aplicación de una Clase
         - mslearn-typescript
     - Fin Sección [30/05/2022]
+
+## [Definición de genéricos en TypeScript]
+
+    - inicio [03/06/2022]
+    - Secciones:
+        - Introducción a los Genericos
+        - Usu de los métodos y las propiedades de un tipo generico

@@ -64,3 +64,7 @@
     - Secciones:
         - Introducción a los Genericos
         - Usu de los métodos y las propiedades de un tipo generico
+        - [06-06-2022] Implementación de genéricos con interfaces y clases
+        - Implementación de genéricos con tipos y clases personalizados
+        - Laboratorio: Declaración de una clase mediante un genérico
+    - Fín [06/06/2022]
